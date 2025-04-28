@@ -1,6 +1,8 @@
 
 # Gerardo Medina's Portfolio
 
+My GitHub page is  http://github.com/gerardomedinaCSUF1
+
 I am a computer science major at Cal State Fullerton and I plan to graduate in 2027.
 
 ## Favorite labs 
